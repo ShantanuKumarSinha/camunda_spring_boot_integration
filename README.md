@@ -1,3 +1,8 @@
+# Camunda_spring_boot_integration
+
+## License
+
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
 # Camunda Spring Boot Integration
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
