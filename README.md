@@ -271,6 +271,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/html/)
 - [BPMN 2.0 Specification](https://www.omg.org/spec/BPMN/2.0/)
 
+## Local setup
+-  H2 Database Console: `http://localhost:8080/h2-console`
+- Camunda Admin: `http://localhost:8080/camunda/app/admin`
 ---
 
 ⭐ If you find this project helpful, please consider giving it a star!
